@@ -1,5 +1,9 @@
 # how-to-clone-website
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **AI Website Cloner** — Playwright scrape → component extraction → Claude rebuild; pixel-accurate AI site cloning workflow.
 
 <p align="center">
